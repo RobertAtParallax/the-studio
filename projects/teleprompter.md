@@ -16,7 +16,8 @@
 
 **Teleprompter turns your phone into a teleprompter and a camera in one screen, opened right from the card that
 needs the video.** The card's script scrolls next to the lens, you record, you keep the take, and it is saved where
-the team will look for it. No app to install, no file to move, no script to copy.
+the team will look for it. Nothing to install, no file to move, no script to copy, and on an Android phone it can
+hand the recording to our phone app for a sharper, steadier picture.
 
 `phone first` · works on desktop too · Light and Dark
 
@@ -39,6 +40,13 @@ the team will look for it. No app to install, no file to move, no script to copy
 - Set the speed in words a minute, the text size, the box height and where it sits, how dark it is, a countdown,
   grid lines, front or back camera and the video quality. Your settings stay on your phone.
 - A live sound meter above the record button shows your voice is coming through.
+
+**▌ Sharper and steadier on an Android phone**
+- With our phone app installed, **Record** opens the app's own recorder with the same script scrolling by the lens.
+- It records the way the phone's camera does: a steady 30 frames a second, focus that follows you, and steadying
+  where the camera offers it, so the video does not stutter.
+- The take goes to the same card folder with the same name and the same hand-off as any other take. Prefer the
+  browser? One tap records there instead, this time or from now on.
 
 **▌ Keep it or go again**
 - Watch each take back, then **Keep** or **Record again**.
