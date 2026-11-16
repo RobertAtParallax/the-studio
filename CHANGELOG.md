@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+- Teleprompter: each kept take is compared with its script, so the next scripts are written the way you
+  actually talk. Screenshot to follow from the sample setup.
 - Teleprompter: on an Android phone, Record can open the phone app's own recorder for a sharper, steadier take,
   with the same script, folder and hand-off. Screenshots of it follow the first test on the phone.
 

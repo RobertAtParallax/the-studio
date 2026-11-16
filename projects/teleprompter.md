@@ -55,6 +55,12 @@ hand the recording to our phone app for a sharper, steadier picture.
   folder with a clear name and the date. A note goes on the card.
 - **Tell the team it is ready to edit** hands it on and closes your to-do.
 
+**▌ Scripts that learn how you talk**
+- Every kept take is compared with the script you were shown: what you read as written, and where you said it
+  your own way. The card gets the match number and the changes.
+- Your writers see those changes before the next script, so each script sounds more like you and you can read
+  it word for word.
+
 ![The card that needs a video, with its Record button](../assets/teleprompter/card-side-by-side.png)
 
 ## Built separate. Better together.
