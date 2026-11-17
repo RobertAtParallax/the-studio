@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+
+- Teleprompter, Video Studio and Routines screenshots retaken from the current build.
 - Pages show Light screenshots, with one Light and Dark example per program, so they read well on a phone. The Light and Dark table is now a row of phone screens.
 - Teleprompter: each kept take is compared with its script, so the next scripts are written the way you
   actually talk. Screenshot to follow from the sample setup.
