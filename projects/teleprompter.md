@@ -61,6 +61,10 @@ hand the recording to our phone app for a sharper, steadier picture.
 - Your writers see those changes before the next script, so each script sounds more like you and you can read
   it word for word.
 
+![A kept take's note on its card: how much was read as written, and each change](../assets/teleprompter/script-vs-spoken-light.png)
+
+![Side by side: what the script said and what was said, line by line](../assets/teleprompter/script-vs-spoken-page-light.png)
+
 ![The card that needs a video, with its Record button](../assets/teleprompter/card-light.png)
 
 ## Built separate. Better together.
