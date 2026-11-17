@@ -30,7 +30,7 @@ team's instructions change with it, so what you see is always what runs.
 - Every routine as a card: what it does in one line, its schedule, an on/off switch, and how the last run went.
 - Find one by name, or filter to the ones that are on, off, mapped, or need a look.
 
-![The gallery of routines](../assets/routines/gallery-side-by-side.png)
+![The gallery of routines](../assets/routines/gallery-light.png)
 
 **▌ Each routine as a map**
 - What starts it, then each step as a box: **Read**, **Check**, **Do**, **Draft**, **Post** and **Hand-off**.
@@ -50,7 +50,7 @@ team's instructions change with it, so what you see is always what runs.
 - One view of every routine, with an arrow wherever one routine makes something another one uses, found from the
   steps themselves, never drawn by hand.
 
-![How every routine connects](../assets/routines/links-side-by-side.png)
+![How every routine connects](../assets/routines/links-light.png)
 
 **▌ Nothing is lost**
 - Every change is a saved version, with undo, redo and bring back.

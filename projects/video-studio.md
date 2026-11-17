@@ -51,7 +51,7 @@ will be.
 
 ![All your videos in one place](../assets/video-studio/gallery-light.png)
 
-![The editor on a phone, Light and Dark](../assets/video-studio/phone-side-by-side.png)
+![The editor on a phone](../assets/video-studio/phone-light.png)
 
 ## Built separate. Better together.
 With Teleprompter, a fresh recording is ready to edit on the same phone. With the AI team on

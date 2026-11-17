@@ -42,7 +42,7 @@ and front or back camera are a tap away, and a live sound meter shows your voice
 back, keep it or go again. A kept take is saved into the card's own folder with a clear name, and one button tells
 the team it is ready to edit.
 
-![Teleprompter: the card's script next to the lens, Light and Dark](assets/teleprompter/camera-side-by-side.png)
+![Teleprompter: the card's script next to the lens](assets/teleprompter/camera-light.png)
 
 ### ▌ Video Studio: edit
 The look your audience knows (a keyword line up top, word-by-word captions with the live word highlighted, a
@@ -60,7 +60,7 @@ off. Click a box to read or change that step in plain English. Describe a new st
 one sentence and the team drafts it as dashed boxes that go live only when you approve. Watch a run light up the
 map as it happens, and see how every routine connects to the others.
 
-![Routines: one routine as a map, Light and Dark](assets/routines/map-side-by-side.png)
+![Routines: one routine as a map](assets/routines/map-light.png)
 
 ---
 
@@ -88,13 +88,11 @@ useful alone, and better together.**
 
 ---
 
-## Light and Dark
+## On a phone
 
-| Light | Dark |
-|---|---|
-| ![Teleprompter, Light](assets/teleprompter/home-light.png) | ![Teleprompter, Dark](assets/teleprompter/home-dark.png) |
-| ![Video Studio, Light](assets/video-studio/phone-light.png) | ![Video Studio, Dark](assets/video-studio/phone-dark.png) |
-| ![Routines, Light](assets/routines/gallery-light.png) | ![Routines, Dark](assets/routines/gallery-dark.png) |
+| Teleprompter | Video Studio | Routines |
+|---|---|---|
+| ![Teleprompter on a phone](assets/teleprompter/home-light.png) | ![Video Studio on a phone](assets/video-studio/phone-light.png) | ![Routines on a phone](assets/routines/gallery-light.png) |
 
 ---
 

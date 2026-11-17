@@ -33,7 +33,7 @@ hand the recording to our phone app for a sharper, steadier picture.
 - The script comes from the card itself. Stage notes in [brackets] stay off the screen, and you can change the
   words by hand before you start.
 
-![Home: ready to record, your own scripts, your latest takes](../assets/teleprompter/home-side-by-side.png)
+![Home: ready to record, your own scripts, your latest takes](../assets/teleprompter/home-light.png)
 
 **▌ Built for looking at the lens**
 - The camera fills the screen and the words scroll in a box right next to the lens.
@@ -61,7 +61,7 @@ hand the recording to our phone app for a sharper, steadier picture.
 - Your writers see those changes before the next script, so each script sounds more like you and you can read
   it word for word.
 
-![The card that needs a video, with its Record button](../assets/teleprompter/card-side-by-side.png)
+![The card that needs a video, with its Record button](../assets/teleprompter/card-light.png)
 
 ## Built separate. Better together.
 On its own, Teleprompter works in any Odoo with projects. With Video Studio, a kept take is the start of the edit.
