@@ -52,6 +52,14 @@ team's instructions change with it, so what you see is always what runs.
 
 ![How every routine connects](../assets/routines/links-light.png)
 
+**▌ Routines on your calendar**
+- Every routine that is switched on shows its coming runs on your calendar, and on past days the runs that really
+  happened, marked done or needing a look. Click one to open the routine.
+- A routine that runs every hour is one all-day item per day, so your calendar stays readable.
+- One tick box hides or shows all of it.
+
+![The team's agenda: coming routine runs and what the team is watching for](../assets/routines/team-agenda-light.png)
+
 **▌ Nothing is lost**
 - Every change is a saved version, with undo, redo and bring back.
 - Talk to the team about a routine right next to its map.

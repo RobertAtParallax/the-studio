@@ -4,6 +4,7 @@ Newest first. Plain English.
 
 ## Unreleased
 
+- **Routines: on your calendar.** Coming runs and past runs show on your calendar; hourly routines are one item a day. Light screenshot, sample data only.
 - **Teleprompter: Script vs Spoken screenshots.** The note a kept take leaves on its card, and the side-by-side page of
   what the script said and what was said. Sample words only.
 - Teleprompter, Video Studio and Routines screenshots retaken from the current build.
