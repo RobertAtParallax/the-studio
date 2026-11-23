@@ -44,6 +44,7 @@ will be.
 - Ask the team for a change in the chat beside the video. Their changes land as new versions and show on your
   screen within seconds.
 - **Make video** renders the final file with a progress bar, and it goes back on the card it belongs to.
+- **Watch and edit from the card.** Open a video from its card and the whole editor is right there, with the finished video ready to play, so you can approve it or change it without leaving the card.
 
 **▌ Phone and desktop**
 - One-handed on a phone. On a computer, the preview sits in the middle, words, style, versions and the team chat at
